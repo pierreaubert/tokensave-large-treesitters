@@ -45,11 +45,15 @@ All tree-sitter grammars for [tokensave](https://github.com/aovestdipaperino/tok
 | Protobuf | [mitchellh/tree-sitter-proto](https://github.com/mitchellh/tree-sitter-proto) |
 | Perl | [tree-sitter-perl/tree-sitter-perl](https://github.com/tree-sitter-perl/tree-sitter-perl) |
 | Fortran | [stadelmanma/tree-sitter-fortran](https://github.com/stadelmanma/tree-sitter-fortran) |
+| AWK | [Beaglefoot/tree-sitter-awk](https://github.com/Beaglefoot/tree-sitter-awk) |
+| Wolfram | [WolframResearch/tree-sitter-wolfram](https://github.com/WolframResearch/tree-sitter-wolfram) |
+| GLSL | [theHamsta/tree-sitter-glsl](https://github.com/theHamsta/tree-sitter-glsl) |
+| CUDA | [tree-sitter-grammars/tree-sitter-cuda](https://github.com/tree-sitter-grammars/tree-sitter-cuda) |
+| HLSL | [theHamsta/tree-sitter-hlsl](https://github.com/theHamsta/tree-sitter-hlsl) |
+| OCaml | [tree-sitter/tree-sitter-ocaml](https://github.com/tree-sitter/tree-sitter-ocaml) |
 | Common Lisp | [theHamsta/tree-sitter-commonlisp](https://github.com/theHamsta/tree-sitter-commonlisp) |
-| Emacs Lisp | [Wilfred/tree-sitter-elisp](https://github.com/Wilfred/tree-sitter-elisp) |
 | Scheme | [6cdh/tree-sitter-scheme](https://github.com/6cdh/tree-sitter-scheme) |
-
-> Note: the table above lists only the originally documented large-tier additions plus the new Lisp-family grammars added in this release. The large tier also bundles many other languages (Markdown, R, SQL, Julia, Haskell, OCaml, Clojure, Erlang, Elixir, F#, Lean 4, Quint, Kotlin, TOML, GLSL, Pascal, PowerShell, VB.NET, Objective-C, Batch, COBOL, MSBASIC2, GW-BASIC, QBasic, Dockerfile). See [`src/lib.rs`](src/lib.rs) for the full list registered by `all_languages()`.
+| FlatBuffers | [yuanchenxi95/tree-sitter-flatbuffers](https://github.com/yuanchenxi95/tree-sitter-flatbuffers) |
 
 ## Usage
 
